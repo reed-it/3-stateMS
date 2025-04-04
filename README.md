@@ -8,5 +8,5 @@ For this empirical project, we use the quarterly log of GDP data for Malaysia fr
 The data dictionary is available as part of the download package from the database or can be downloaded here (https://www.mohaddes.org/gvar)
 
 ## Estimation files
-The full project script is uploaded together with the report under the file name “Project Script V2.R”. We model the Malaysia GDP growth using the AR(1) model, MS(2)-AR(1) model, and MS(3)-AR(1) model. Each step in process is labelled accordingly in the full project script. Alternatively, the project script can be accessed here (Project Script V2.R).  
+The full project script is uploaded together with the report under the file name “Project Script V2.R”. We model the Malaysia GDP growth using the AR(1) model, MS(2)-AR(1) model, and MS(3)-AR(1) model. Each step in process is labelled accordingly in the full project script. Alternatively, the project script can be accessed here ([Project Script V2.R](https://github.com/reed-it/3-stateMS/blob/main/Project%20Script%20V2.R)).  
 Replication codes come without technical support of any kind.
